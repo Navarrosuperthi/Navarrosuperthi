@@ -82,3 +82,22 @@ Me chamo Thiago Oliveira Navarro, tenho 17 anos. Estou ns reta final do meu ensi
 />
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+<img 
+    align="left" 
+    alt="Github Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+    src = "https://github-readme-stats-eight-theta.vercel.app/api?username=Navarrosuperthi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+    align="left" 
+    alt="Github Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+    src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Navarrosuperthi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+</p>
