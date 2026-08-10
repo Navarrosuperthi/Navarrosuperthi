@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Thiago, tenho 17 anos. Estou ns reta final do meu ensino médio técnico em Desenvolvimento de Sistemas, na E.E Parque Marajoara II, e do Curso Técnico em Mecatrônica na Etec Júlio de Mesquita, também realizando o curso Técnico de Desenvolvimento de Sistemas no SENAI Mecatônica. Atualmente, tenho a fluência em Inglês de diferencial, e estou em busca de uma primeira vaga de emprego na região de SP, para dar iniciação a minha carreira profiddional no mercado de trabalho.
+Me chamo Thiago, tenho 17 anos. Estou ns reta final do meu ensino médio técnico em Desenvolvimento de Sistemas, na E.E Parque Marajoara II, e do Curso Técnico em Mecatrônica na Etec Júlio de Mesquita, também realizando o curso Técnico de Desenvolvimento de Sistemas no SENAI Mecatônica. Atualmente, tenho a fluência em Inglês de diferencial, e estou em busca de uma primeira vaga de emprego na região de SP, para dar iniciação a minha carreira profissional no mercado de trabalho.
 
 ---
 
